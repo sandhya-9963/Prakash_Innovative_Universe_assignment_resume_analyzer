@@ -43,7 +43,9 @@ Similarity=cos(θ)= A.B/(∥A∥∥B∥)
  __Project Structure__
 
 ├── app.py              # Main application logic and UI
+
 ├── README.md           # Project documentation
+
 └── requirements.txt    # List of dependencies
 
 __Future Roadmap__
