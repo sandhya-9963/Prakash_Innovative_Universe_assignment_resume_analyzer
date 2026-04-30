@@ -17,6 +17,7 @@ PDF Engine: PyPDF2
 __Installation & Setup__
 Clone the Repository
 git clone https://github.com/sandhya-9963/Prakash_Innovative_Universe_assignment_resume_analyzer.git
+
 cd Prakash_Innovative_Universe_assignment_resume_analyzer
 
 __Install Dependencies__
